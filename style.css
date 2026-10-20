@@ -1,0 +1,9 @@
+.body {     
+    background: gray; 
+}
+
+p {     
+    size: 200px;     
+    background-color: black;     
+    margin: auto; 
+}
