@@ -1,4 +1,4 @@
-function myFunction() {
+function bleh() {
   var x = document.getElementById("myDIV");
   if (x.style.display === "none") {
     x.style.display = "block";
@@ -6,5 +6,3 @@ function myFunction() {
     x.style.display = "none";
   }
 }
-
-export default myFunction;
